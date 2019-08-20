@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da1e1df8-80ff-43fc-80aa-5559b92e8c0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CalculatorLibrary/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CalculatorLibrary/calculator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CalculatorLibrary/test_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CalculatorLibrary" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="953" />
@@ -70,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566308386809</updated>
-      <workItem from="1566311236126" duration="686000" />
+      <workItem from="1566311236126" duration="1276000" />
     </task>
     <servers />
   </component>
