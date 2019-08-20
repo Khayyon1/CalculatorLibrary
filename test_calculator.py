@@ -18,3 +18,4 @@ class TestCalculator:
 
     def test_multiplication(self):
         assert 100 == multiply(10, 10)
+
